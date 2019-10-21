@@ -3,3 +3,5 @@
 runtime/logs/*
 upload/*
 swagger/*
+routers/commentsRouter_.go
+lastupdate.tmp
