@@ -19,7 +19,7 @@ func (c *IndexController) URLMapping() {
 }
 
 func (this *IndexController) Index() {
-	this.SuccessJSON(200,"成功",map[string]string{
+	this.SuccessJSON(200,"success",map[string]string{
 		"data":"成功",
 	})
 }
